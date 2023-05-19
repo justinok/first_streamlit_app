@@ -1,3 +1,6 @@
 import streamlit
 
-streamlit.title('Esto esta cogiendo forma')
+streamlit.title('Cielo')
+
+streamlit.header('yo a usted')
+streamlit.text('la amooooooo')
