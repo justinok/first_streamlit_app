@@ -1,6 +1,7 @@
 import streamlit
 
-streamlit.title('Cielo')
+streamlit.title('Hola viajero 🥣 🥗 🐔 🥑🍞')
 
-streamlit.header('yo a usted')
-streamlit.text('la amooooooo')
+streamlit.header('te deseo')
+streamlit.text('un maravilloso dia')
+streamlit.header('🍌🥭 Recuerda alimentarte bien 🥝🍇')
