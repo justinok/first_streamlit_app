@@ -57,8 +57,6 @@ if streamlit.button('Get Load List'):
 
 
 
-# don't run anything past here while we troubleshoot
-streamlit.stop()
 
 #Allow user to enter some fruit
 def insert_row_snowflake(new_fruit):
